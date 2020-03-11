@@ -14,7 +14,7 @@ function showModal(event) {
 const deleteButton = document.querySelector('.btn-secondary')
 deleteButton.addEventListener("click", deleteAccount);
 
-console.dir(deleteButton)
+
 function deleteAccount(event) {
 
 }  
